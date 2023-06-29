@@ -1,0 +1,31 @@
+h1{
+    color: black;
+    text-align: center;
+}
+
+
+
+img{
+    width:250;
+    height: 250;
+    
+}
+
+
+nav{
+    dispaly:flexbox;
+}
+
+
+
+body{
+    background-image: url("IMG_0694.JPG");
+}
+
+
+
+nav >button:hover{
+    width: 200px;
+    background-color: antiquewhite;
+    border: 50rem;
+}
